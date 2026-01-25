@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Ismoiljon Ruziboev</h1>
-<h3 align="center">AI Engineer | Computer Vision & Deep and Machine Learning</h3>
+<h3 align="center">AI Engineer | Computer Vision | Deep Learning & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ismoiljon-ruziboev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
 
 ## 🧠 About Me
 
